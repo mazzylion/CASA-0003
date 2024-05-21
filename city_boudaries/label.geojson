@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ADM2_EN": "Dongguan" }, "geometry": { "type": "Point", "coordinates": [ 113.883375520340266, 22.930900419881457 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Zhongshan" }, "geometry": { "type": "Point", "coordinates": [ 113.352013566607923, 22.542428017716833 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Zhuhai" }, "geometry": { "type": "Point", "coordinates": [ 113.326969079054436, 22.253199871284252 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Hong Kong Special Administrative Region" }, "geometry": { "type": "Point", "coordinates": [ 114.124486662002496, 22.38490284753999 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Jiangmen" }, "geometry": { "type": "Point", "coordinates": [ 112.648379075786792, 22.311708314548188 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Guangzhou" }, "geometry": { "type": "Point", "coordinates": [ 113.513778260483676, 23.382036310425672 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Zhaoqing" }, "geometry": { "type": "Point", "coordinates": [ 112.180338848670814, 23.549820533210227 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Huizhou" }, "geometry": { "type": "Point", "coordinates": [ 114.481455941059735, 23.249318009767027 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Foshan" }, "geometry": { "type": "Point", "coordinates": [ 112.911919296819988, 23.016404639016447 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Shenzhen" }, "geometry": { "type": "Point", "coordinates": [ 114.121588606942723, 22.663778971899738 ] } },
+{ "type": "Feature", "properties": { "ADM2_EN": "Macao Special Administrative Region" }, "geometry": { "type": "Point", "coordinates": [ 113.562405523107145, 22.146351477532331 ] } }
+]
+}
